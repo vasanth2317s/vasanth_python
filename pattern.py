@@ -26,3 +26,6 @@ a=5
 for i in range(1,50,1):
     a=a^i
     print(a)
+    
+    print(a)
+    print("hello")
